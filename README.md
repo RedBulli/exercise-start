@@ -1,3 +1,4 @@
 # exercise-start
 
-`npm start`
+* `npm i`
+* `npm start`
